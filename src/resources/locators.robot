@@ -1,24 +1,26 @@
 *** Settings ***
 Documentation       Placeholder for all Locator Variables
+...                 > all global variables      -> CAPITALCASE
+...                 > all locators names        -> CamelCase
+...                 > all local text variables  -> smallcase
+...                 can use {.}, { } and {_} in variable naming
+...     Eg: ${user name}, ${user.name}, ${user_name} are all recommended
+
 
 *** Variables ***
 
-# (in bold) Page Urls
+# PAGE URLs in CAPITAL case
 ${LOGIN URL}      	https://www.instagram.com/accounts/login/
-${BROWSER}        	Chrome
 
-# Framework Settings (in bold)
+# Framework Settings in CAPITAL case
+${BROWSER}        	    Chrome
 ${TIMEOUT}		  	    2s
 ${SPEED}                0.1s
-${NaN}			   	    css:#avimehenwal
 ${NUM_POSTS}			50
 ${CLICKLIKES}           true
+${NaN}			   	    css:#avimehenwal
 
-# COMMOM PAGE VARIABLES
-# text variables in SMALL-CASE
-${title}                Instagram
-
-# **************** ALL LOCATORS in CAMEL-CASE
+# **************** ALL LOCATORS in CAMEL-CASE divided by Sections
 # LOGIN PAGE
 ${UserName}       	  css:#react-root > section > main > div > article > div > div:nth-child(1) > div > form > div:nth-child(2) > div > label > input
 ${Password}        	  css:#react-root > section > main > div > article > div > div:nth-child(1) > div > form > div:nth-child(3) > div > label > input
@@ -30,3 +32,4 @@ ${matchtext}      	all_visual_interpretation
 ${child_heart}     	div.eo2As > section >span:nth-child(1)
 ${Hearts}		   	css:article div.eo2As > section >span:nth-child(1)
 ${jsHeart}		   	article div.eo2As > section >span:nth-child(1)
+

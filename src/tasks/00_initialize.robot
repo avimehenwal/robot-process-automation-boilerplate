@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation           Make browser available to all subsequent tests/tasks
 Resource                ../resources/page_objects/LoginPage.robot
-Force Tags 			    Instagram       setup       ${platform}
+Force Tags 			    ${platform}
 
 
 *** Test Cases ***
@@ -12,5 +12,5 @@ Ready Browser
     Set Selenium Speed	            ${SPEED}
 
     Open Browser                    ${LOGIN URL}    ${BROWSER}
-    # Maximize Browser Window
+    Maximize Browser Window
     Silently Handle Alert

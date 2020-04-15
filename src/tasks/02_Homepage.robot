@@ -1,17 +1,15 @@
 *** Settings ***
-Documentation           Outreach Strategy
-...                     Like first {N} visible posts on homescreen
+Documentation           Add all Homepage relates tests/tasks
 Resource                ../resources/page_objects/Homepage.robot
-Force Tags 			    Instagram       homepage        ${platform}
+Force Tags 			    ${platform}     homepage
 Suite Setup             Ready Homepage
 
 
 *** Test Cases ***
-Go Crazy On Homepage
+Test Case 1
     [Documentation]         Automation Strategy
     [Tags]                  bot
-    Give Hearts to Initial Posts on Homepage
-    Continue Scrolling
+    Some Keyword
 
 
 *** Keywords ***
