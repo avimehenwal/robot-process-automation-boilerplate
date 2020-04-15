@@ -1,5 +1,6 @@
 # Robot Process Automation Biolerplate
 
+![Python package](https://github.com/avimehenwal/robot-process-automation-boilerplate/workflows/Python%20package/badge.svg)
 
 > [Robotic Process Automation](rpc) Boilerplate Template for web controller systems
 
@@ -13,7 +14,8 @@ building creative stuff and solving interesting problems.
 - [Robot Process Automation Biolerplate](#robot-process-automation-biolerplate)
   - [Problem project tries to solve](#problem-project-tries-to-solve)
   - [Projects built using this template](#projects-built-using-this-template)
-  - [Built using amazing projects mentioned below](#built-using-amazing-projects-mentioned-below)
+  - [Built using amazing opensource projects](#built-using-amazing-opensource-projects)
+  - [In Media](#in-media)
       - [@ Reach Me @](#reach-me)
 
 ## Problem project tries to solve
@@ -30,7 +32,7 @@ building creative stuff and solving interesting problems.
 1. Instagram Bot for digital media marketting
 2. Twitter Bot for digital media marketting
 
-## Built using amazing projects mentioned below
+## Built using amazing opensource projects
 
 > Dependencies
 
@@ -40,6 +42,11 @@ building creative stuff and solving interesting problems.
 4. [seleniumLibrary](https://github.com/robotframework/SeleniumLibrary)
 5. [webdriverdownloader](https://pypi.org/project/webdriverdownloader/)
 
+
+## In Media
+
+* [on Twitter](https://twitter.com/search?q=robot-process-automation-boilerplate&src=typed_query)
+* [on Google](https://www.google.com/search?newwindow=1&sxsrf=ALeKk009wWkyM5qBiESsmqk6L2DOCOmUXQ%3A1586957962878&ei=ig6XXtGbNdCWkwWI2r_QDg&q=robot-process-automation-boilerplate&oq=robot-process-automation-boilerplate&gs_lcp=CgZwc3ktYWIQAzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQRzIECAAQR0oJCBcSBTEyLTEzSggIGBIEMTItM1AAWABgv1BoAHADeACAAQCIAQCSAQCYAQCqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjRiJqNx-roAhVQy6QKHQjtD-oQ4dUDCAw&uact=5)
 
 #### @ Reach Me @
 
