@@ -11,6 +11,11 @@ building creative stuff and solving interesting problems.
 | --------------- |
 | Always in development |
 
+- [Robot Process Automation Biolerplate](#robot-process-automation-biolerplate)
+  - [Problem project tries to solve](#problem-project-tries-to-solve)
+  - [Projects built using this template](#projects-built-using-this-template)
+  - [Built using amazing projects mentioned below](#built-using-amazing-projects-mentioned-below)
+      - [@ Reach Me @](#reach-me)
 
 ## Problem project tries to solve
 
@@ -27,7 +32,11 @@ building creative stuff and solving interesting problems.
 
 > Dependencies
 
-1. [webdriverdownloader](https://pypi.org/project/webdriverdownloader/)
+1. [python](https://github.com/python)
+2. [selenium](https://www.selenium.dev/)
+3. [robotframework](https://github.com/robotframework/robotframework)
+4. [seleniumLibrary](https://github.com/robotframework/SeleniumLibrary)
+5. [webdriverdownloader](https://pypi.org/project/webdriverdownloader/)
 
 
 #### @ Reach Me @
