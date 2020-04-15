@@ -1,6 +1,5 @@
 # Robot Process Automation Biolerplate
 
-[rpc]: https://en.wikipedia.org/wiki/Robotic_process_automation
 
 > [Robotic Process Automation](rpc) Boilerplate Template for web controller systems
 
@@ -14,21 +13,24 @@ building creative stuff and solving interesting problems.
 - [Robot Process Automation Biolerplate](#robot-process-automation-biolerplate)
   - [Problem project tries to solve](#problem-project-tries-to-solve)
   - [Projects built using this template](#projects-built-using-this-template)
-  - [Built using amazing projects mentioned below](#built-using-amazing-projects-mentioned-below)
+  - [Built using amazing opensource projects](#built-using-amazing-opensource-projects)
       - [@ Reach Me @](#reach-me)
 
 ## Problem project tries to solve
 
-1. [ ] Provide a generic scaffolding structure for [rpc](rpc) projects
-2. [ ] Save time loopup on internet for structure related things
+1. [ ] Provide a generic scaffolding structure for [rpc](rpc) based projects
+2. [ ] Save time to deal with linking symentic related problems.
 3. [ ] Uses of [Page Object Model](https://martinfowler.com/bliki/PageObject.html) to make it maintainable
+
+[rpc]: https://en.wikipedia.org/wiki/Robotic_process_automation
+
 
 ## Projects built using this template
 
 1. Instagram Bot for digital media marketting
 2. Twitter Bot for digital media marketting
 
-## Built using amazing projects mentioned below
+## Built using amazing opensource projects
 
 > Dependencies
 
@@ -41,7 +43,7 @@ building creative stuff and solving interesting problems.
 
 #### @ Reach Me @
 
-> I am always looking for Jobs ...
+> I am always looking for Jobs ... :sunglasses:
 
 * [Github](https://github.com/avimehenwal/)
 * [My Website](https://avimehenwal.in)
