@@ -9,5 +9,5 @@ robotframework-seleniumlibrary==4.3.0
 selenium==3.141.0
 soupsieve==2.0
 tqdm==4.45.0
-urllib3==1.25.8
+urllib3==1.26.5
 webdriverdownloader==1.1.0.3
